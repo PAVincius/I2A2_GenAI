@@ -7,5 +7,5 @@ import react from "@astrojs/react";
 export default defineConfig({
   integrations: [tailwind(), react()],
   site: 'https://pavincius.github.io',
-  base: '/Tema1'
+  base: '/tema1'
 });
